@@ -2,7 +2,7 @@ package me.homerorion.br;
 
 import javax.swing.JOptionPane;
 
-public class Aula7_1 {
+public class Exercicio_7_3 {
 	
 	/*03 - Faça um programa em Java que leia idade de uma pessoa expressa em anos, meses e 
 	dias e escrever a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 

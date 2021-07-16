@@ -2,7 +2,7 @@ package me.homerorion.br;
 
 import java.util.Scanner;
 
-public class Aula7_2 {
+public class Exercicio_7_2 {
 	/*02 - Escreva um programa em Java para ler as dimensões de um retângulo (base e altura), 
 		calcular e escrever a área do retângulo. */
 	
